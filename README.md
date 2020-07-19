@@ -2,9 +2,11 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="30" style="vertical-align: -4px" /> Hey, nice to see you.
 </h1>
 
-I'm Xin Chen, front-end developer from China. Like to learn to try new technologies, it may waste a lot of time...
+> Life’s attitude to you depends on your attitude to it.
 
-<img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=cecece&icon_color=30aedd&text_color=8c8c8c&bg_color=2a2a2a">
+I'm Xin Chen, front-end developer from China. I love experimenting with new technologies...
+
+<img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=d2d2d2&icon_color=30aedd&text_color=8c8c8c&bg_color=282828" />
 
 <!-- <details>
 <summary>
@@ -15,10 +17,10 @@ I'm Xin Chen, front-end developer from China. Like to learn to try new technolog
 <table>
   <thead align="center">
     <tr>
-      <th>📦 Project</th>
+      <th>📦 Projects</th>
       <th>📃 Description</th>
-      <th>⭐ Star</th>
-      <th>📚 Fork</th>
+      <th>⭐ Stars</th>
+      <th>📚 Forks</th>
       <th>🛎 Issues</th>
     </tr>
   </thead>
