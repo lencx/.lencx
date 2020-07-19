@@ -1,8 +1,8 @@
 <h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="30" /> Hey 👋, nice to see you.
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="30" style="vertical-align: -4px" /> Hey, nice to see you.
 </h1>
 
-I'm Xin Chen, frontEnd developer from China. Like to learn to try new technologies, it may waste a lot of time...
+I'm Xin Chen, front-end developer from China. Like to learn to try new technologies, it may waste a lot of time...
 
 <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=cecece&icon_color=30aedd&text_color=8c8c8c&bg_color=2a2a2a">
 
