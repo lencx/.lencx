@@ -31,35 +31,35 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
       <td>my blog</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/issues/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
       <td><a href="https://music.nofwl.com">🎶 music</a></td>
       <td>music generator</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/music?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/music?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/issues/lencx/music?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/music?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
       <td><a href="https://music.nofwl.com">📂 deno-getfiles</a></td>
       <td>recursively get all files in a directory</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/issues/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/lencx/deno-example">🦕 deno-example</a></td>
       <td>deno example</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/issues/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <!-- <tr>
       <td><a href="https://github.com/nofwl/rust-learn">🦀 rust-learn</a></td>
       <td>rust learn</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/issues/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
     </tr> -->
   </tbody>
 </table>
