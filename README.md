@@ -6,10 +6,11 @@
 
 I'm Xin Chen, front-end developer from China. I love experimenting with new technologies...
 
+[![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories)
+
 ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm)
 <!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51) -->
 
-[![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact)](https://github.com/lencx?tab=repositories)
 
 <!-- <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=d2d2d2&icon_color=30aedd&text_color=8c8c8c&bg_color=282828" /> -->
 <!-- <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=f2cc8f&bg_color=495867" /> -->
