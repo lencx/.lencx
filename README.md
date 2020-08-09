@@ -9,18 +9,8 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
 [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories)
 
 ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm)
-<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51) -->
 
-
-<!-- <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=d2d2d2&icon_color=30aedd&text_color=8c8c8c&bg_color=282828" /> -->
-<!-- <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=f2cc8f&bg_color=495867" /> -->
-<!-- <img src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&title_color=d44d5c&icon_color=edae49&text_color=f2cc8f&bg_color=373f51" /> -->
-
-<!-- <details>
-<summary>
-<h3 style="display: inline-block;">Things I code with</h3>
-</summary> -->
-<h3>Things I code with</h3>
+### Things I code with
 
 <table>
   <thead align="center">
@@ -35,11 +25,18 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
 
   <tbody>
     <tr>
-      <td><a href="https://music.nofwl.com">〽️ nofwl</a></td>
+      <td><a href="https://www.nofwl.com">〽️ nofwl</a></td>
       <td>my blog</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/data-structure-and-algorithm">🤖 data-structure-and-algorithm</a></td>
+      <td>data structure and algorithm</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/data-structure-and-algorithm?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/data-structure-and-algorithm?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/data-structure-and-algorithm?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
       <td><a href="https://music.nofwl.com">🎶 music</a></td>
@@ -49,7 +46,7 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/music?style=flat-square&labelColor=343b41" /></td>
     </tr>
     <tr>
-      <td><a href="https://music.nofwl.com">📂 deno-getfiles</a></td>
+      <td><a href="https://github.com/lencx/deno-getfiles">📂 deno-getfiles</a></td>
       <td>recursively get all files in a directory</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/deno-getfiles?style=flat-square&labelColor=343b41" /></td>
@@ -62,13 +59,5 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/deno-example?style=flat-square&labelColor=343b41" /></td>
     </tr>
-    <!-- <tr>
-      <td><a href="https://github.com/nofwl/rust-learn">🦀 rust-learn</a></td>
-      <td>rust learn</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nofwl/rust-learn?style=flat-square&labelColor=343b41" /></td>
-    </tr> -->
   </tbody>
 </table>
-<!-- </details> -->
