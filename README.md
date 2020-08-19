@@ -9,7 +9,7 @@ I'm Xin Chen, front-end developer from China. I love experimenting with new tech
 <!-- title_color: "e07a5f",
 icon_color: "edae49",
 text_color: "ebcfb2",
-bg_color: "373f51", -->
+bg_color: "373f51", -->s
 
 <!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,373f51,6d597a,84a59d&icon_color=ee6c4d&title_color=e56b6f&text_color=ebcfb2) -->
 <!-- [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories) -->
@@ -68,6 +68,13 @@ bg_color: "373f51", -->
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-example?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/deno-example?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/deno-example?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nofwl/rust-learn">🦀 rust-learn</a></td>
+      <td>rust learn</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nofwl/rust-learn?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nofwl/rust-learn?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/nofwl/rust-learn?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
   </tbody>
 </table>
