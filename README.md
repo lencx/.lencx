@@ -1,28 +1,34 @@
-<h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="30" style="vertical-align: -4px" /> Hey, nice to see you.
-</h1>
+<h2>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="24" style="vertical-align: -4px" /> Hey, nice to see you.
+</h2>
 
 > Life’s attitude to you depends on your attitude to it.
 
-I'm Xin Chen, front-end developer from China. I love experimenting with new technologies...
+<p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love experimenting with new technologies...</p>
 
 <!-- title_color: "e07a5f",
 icon_color: "edae49",
 text_color: "ebcfb2",
-bg_color: "373f51", -->s
+bg_color: "373f51", -->
 
 <!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,373f51,6d597a,84a59d&icon_color=ee6c4d&title_color=e56b6f&text_color=ebcfb2) -->
 <!-- [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories) -->
-
+<!--
 [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392)](https://github.com/lencx?tab=repositories)
 
-![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392)
+![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392) -->
 
 <!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm) -->
 
-### Things I code with
+<a href="https://github.com/lencx?tab=repositories"><img alt="Top Langs" width="200" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a>
 
-<table style="font-size: 14px">
+<img alt="lencx stats" width="240" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392">
+
+#### Things I code with
+
+<!-- <a href="https://www.github.com/nofwl/rust-learn"><img width="180" alt="nofwl" src="https://lencx-stats.vercel.app/api/pin/?username=nofwl&repo=rust-learn&&show_icons=true&bg_color=316,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392" /></a> -->
+
+<table style="font-size: 12px">
   <thead align="center">
     <tr>
       <th>📦 Projects</th>
