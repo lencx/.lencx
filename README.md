@@ -20,9 +20,9 @@ bg_color: "373f51", -->
 
 <!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm) -->
 
-<a href="https://github.com/lencx?tab=repositories"><img alt="Top Langs" width="200" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a>
+<a href="https://github.com/lencx?tab=repositories"><img alt="Top Langs" width="300" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a>
 
-<img alt="lencx stats" width="240" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392">
+<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392">
 
 #### Things I code with
 
