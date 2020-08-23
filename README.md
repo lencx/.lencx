@@ -1,4 +1,4 @@
-<h2><img src="./hello.gif" alt="sunglasses" width="42" /> 𝒉𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆, 𝒇𝒆𝒍𝒍𝒐𝒘 <𝒄𝒐𝒅𝒆𝒓𝒔 />!</h2>
+<h2><img src="https://raw.githubusercontent.com/lencx/lencx/master/hello.gif" alt="Hi" width="42" /> 𝒉𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆, 𝒇𝒆𝒍𝒍𝒐𝒘 <𝒄𝒐𝒅𝒆𝒓𝒔 />!</h2>
 
 > Life’s attitude to you depends on your attitude to it.
 
