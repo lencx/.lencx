@@ -1,28 +1,21 @@
-<h2>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="sunglasses" width="24" style="vertical-align: -4px" /> Hey, nice to see you.
-</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="sunglasses" width="64" /> 𝒉𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆, 𝒇𝒆𝒍𝒍𝒐𝒘 <𝒄𝒐𝒅𝒆𝒓𝒔 />!</h2>
 
 > Life’s attitude to you depends on your attitude to it.
 
-<p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love experimenting with new technologies...</p>
-
-<!-- title_color: "e07a5f",
-icon_color: "edae49",
-text_color: "ebcfb2",
-bg_color: "373f51", -->
-
-<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,373f51,6d597a,84a59d&icon_color=ee6c4d&title_color=e56b6f&text_color=ebcfb2) -->
-<!-- [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories) -->
-<!--
-[![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392)](https://github.com/lencx?tab=repositories)
-
-![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392) -->
-
-<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm) -->
-
-<a href="https://github.com/lencx?tab=repositories"><img alt="Top Langs" width="300" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a>
+<p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love to explore and learn about new things...</p>
 
 <img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392">
+
+#### Languages I use
+
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></span>
+<span><img width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></span>
 
 #### Things I code with
 
@@ -91,3 +84,19 @@ bg_color: "373f51", -->
     </tr>
   </tbody>
 </table>
+
+<!-- <a href="https://github.com/lencx?tab=repositories"><img align="right" alt="Top Langs" width="300" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a> -->
+
+<!-- title_color: "e07a5f",
+icon_color: "edae49",
+text_color: "ebcfb2",
+bg_color: "373f51", -->
+
+<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,373f51,6d597a,84a59d&icon_color=ee6c4d&title_color=e56b6f&text_color=ebcfb2) -->
+<!-- [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories) -->
+<!--
+[![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392)](https://github.com/lencx?tab=repositories)
+
+![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392) -->
+
+<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm) -->
