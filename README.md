@@ -41,7 +41,7 @@
 
   <tbody>
     <tr>
-      <td><a href="https://www.nofwl.com">〽️ nofwl</a></td>
+      <td><a href="https://nofwl.com">〽️ nofwl</a></td>
       <td>my blog</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
