@@ -49,7 +49,7 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://github.com/lencx/mtc">😎 mtc</a></td>
+      <td><a href="https://mtc.nofwl.com">😎 mtc</a></td>
       <td>my tools & config, and awesome lists</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
