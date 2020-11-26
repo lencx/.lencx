@@ -6,6 +6,7 @@
 
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
+![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)
 [![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
 [![MTC](https://img.shields.io/badge/😎-MTC-%23323031?style=flat&labelColor=323031)](https://mtc.nofwl.com)
 
@@ -102,7 +103,6 @@
 </table>
 
 <!-- <a href="https://github.com/lencx?tab=repositories"><img align="right" alt="Top Langs" width="300" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a> -->
-
 
 <!-- > Life’s attitude to you depends on your attitude to it. -->
 <!-- 1F2933 -->
