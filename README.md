@@ -58,6 +58,13 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
+      <td><a href="https://s.nofwl.com/-">🔗 short-link</a></td>
+      <td>link shortener</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/short-link?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/short-link?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/short-link?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
       <td><a href="https://github.com/lencx/compiler">🌀 compiler</a></td>
       <td>constructing a compiler</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
