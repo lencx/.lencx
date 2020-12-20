@@ -4,6 +4,8 @@
 
 <p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love to explore and learn about new things...</p>
 
+[![lencx](https://github-profile-trophy.vercel.app/?username=lencx&theme=gruvbox&row=3)](https://github.com/lencx)
+
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
 ![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)
@@ -56,6 +58,13 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/vsg">:octocat: vsg</a></td>
+      <td>vscode - github explore</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/vsg?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/vsg?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/vsg?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
       <td><a href="https://s.nofwl.com/-">🔗 short-link</a></td>
