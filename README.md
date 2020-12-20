@@ -4,7 +4,7 @@
 
 <p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love to explore and learn about new things...</p>
 
-[![lencx](https://github-profile-trophy.vercel.app/?username=lencx&theme=gruvbox&row=3)](https://github.com/lencx)
+<!-- [![lencx](https://github-profile-trophy.vercel.app/?username=lencx&theme=gruvbox&row=3)](https://github.com/lencx) -->
 
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
