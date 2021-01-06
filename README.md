@@ -74,25 +74,18 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/short-link?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://github.com/lencx/compiler">🌀 compiler</a></td>
-      <td>constructing a compiler</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lencx/data-structure-and-algorithms">🤖 data-structure-and-algorithms</a></td>
-      <td>data structure and algorithms</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
-    </tr>
-    <tr>
       <td><a href="https://music.nofwl.com">🎶 music</a></td>
       <td>music generator</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/music?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/music?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/music?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/create-xc-app">⚡️ create-xc-app</a></td>
+      <td>create a project in seconds!</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
       <td><a href="https://github.com/lencx/deno-getfiles">📂 deno-getfiles</a></td>
@@ -146,3 +139,18 @@ bg_color: "373f51", -->
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code> -->
+
+<!-- <tr>
+  <td><a href="https://github.com/lencx/compiler">🌀 compiler</a></td>
+  <td>constructing a compiler</td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+  <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+</tr> -->
+<!-- <tr>
+  <td><a href="https://github.com/lencx/data-structure-and-algorithms">🤖 data-structure-and-algorithms</a></td>
+  <td>data structure and algorithms</td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+  <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+</tr> -->
