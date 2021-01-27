@@ -88,6 +88,20 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
+      <td><a href="https://github.com/lencx/lencx/vite-plugin-rsw">🧩 vite-plugin-rsw</a></td>
+      <td>wasm-pack plugin for vite@v2</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/learn-wasm">🥸 learn-wasm</a></td>
+      <td>learning webAssembly</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
       <td><a href="https://github.com/lencx/deno-getfiles">📂 deno-getfiles</a></td>
       <td>recursively get all files in a directory</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-getfiles?style=plastic&labelColor=373f51&color=e07a5f" /></td>
