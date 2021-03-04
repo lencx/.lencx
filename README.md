@@ -12,9 +12,6 @@
 [![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
 [![MTC](https://img.shields.io/badge/😎-MTC-%23323031?style=flat&labelColor=323031)](https://mtc.nofwl.com)
 
-<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true"><br>
-<img alt="lencx's wakatime stats" width="360" src="https://lencx-stats.vercel.app/api/wakatime?username=lencx&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392">
-
 <!-- [![lencx's wakatime stats](https://lencx-stats.vercel.app/api/wakatime?username=lencx&theme=calm)](https://github.com/lencx) -->
 
 #### Languages and Tools
@@ -30,6 +27,13 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+
+<details>
+
+<summary>💖 Other</summary>
+
+<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true"><br>
+<img alt="lencx's wakatime stats" width="360" src="https://lencx-stats.vercel.app/api/wakatime?username=lencx&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392">
 
 #### Things I code with
 
@@ -88,7 +92,7 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://github.com/lencx/vite-plugin-rsw">🧩 vite-plugin-rsw</a></td>
+      <td><a href="https://github.com/lencx/lencx/vite-plugin-rsw">🧩 vite-plugin-rsw</a></td>
       <td>wasm-pack plugin for vite@v2</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
@@ -125,46 +129,4 @@
   </tbody>
 </table>
 
-<!-- <a href="https://github.com/lencx?tab=repositories"><img align="right" alt="Top Langs" width="300" src="https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392"></a> -->
-
-<!-- > Life’s attitude to you depends on your attitude to it. -->
-<!-- 1F2933 -->
-<!-- title_color: "e07a5f",
-icon_color: "edae49",
-text_color: "ebcfb2",
-bg_color: "373f51", -->
-
-<!-- <a href="https://www.github.com/nofwl/rust-learn"><img width="180" alt="nofwl" src="https://lencx-stats.vercel.app/api/pin/?username=nofwl&repo=rust-learn&&show_icons=true&bg_color=316,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392" /></a> -->
-
-<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,373f51,6d597a,84a59d&icon_color=ee6c4d&title_color=e56b6f&text_color=ebcfb2) -->
-<!-- [![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&theme=calm)](https://github.com/lencx?tab=repositories) -->
-<!--
-[![Top Langs](https://lencx-stats.vercel.app/api/top-langs/?username=lencx&layout=compact&bg_color=130,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392)](https://github.com/lencx?tab=repositories)
-
-![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392) -->
-
-<!-- ![lencx stats](https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&theme=calm) -->
-
-<!-- <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code> -->
-
-<!-- <tr>
-  <td><a href="https://github.com/lencx/compiler">🌀 compiler</a></td>
-  <td>constructing a compiler</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/compiler?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-</tr> -->
-<!-- <tr>
-  <td><a href="https://github.com/lencx/data-structure-and-algorithms">🤖 data-structure-and-algorithms</a></td>
-  <td>data structure and algorithms</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/data-structure-and-algorithms?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-</tr> -->
+</details>
