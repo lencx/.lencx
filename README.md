@@ -1,8 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 𝒉𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆, 𝒇𝒆𝒍𝒍𝒐𝒘 <𝒄𝒐𝒅𝒆𝒓𝒔 />!</h2>
 
-<!-- > 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵. -->
-
-<b style="font-size: 12px; color: #999">{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</b>
+> 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵.
 
 <p style="font-size: 12px">I'm Xin Chen, front-end developer from China. I love to explore and learn about new things...</p>
 
@@ -34,6 +32,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
 <details>
 
