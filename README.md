@@ -14,8 +14,9 @@
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
 [![BOOK](https://img.shields.io/badge/📖-BOOK-%23323031?style=flat&labelColor=323031)](https://lencx.github.io/book)
-[![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
 [![MTC](https://img.shields.io/badge/😎-MTC-%23323031?style=flat&labelColor=323031)](https://mtc.nofwl.com)
+[![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
+[![fe-cool/news](https://img.shields.io/badge/🕸-MDH%20•%20前端情报-%23323031?style=flat&labelColor=323031)](https://fe-cool.github.io/news)
 
 <!-- [![lencx's wakatime stats](https://lencx-stats.vercel.app/api/wakatime?username=lencx&theme=calm)](https://github.com/lencx) -->
 
