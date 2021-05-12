@@ -35,6 +35,10 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
+[![book](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=book&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/book)
+<!-- [![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=nofwl&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/nofwl)
+[![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=create-xc-app&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/create-xc-app) -->
+
 <details>
 
 <summary>💖 Other</summary>
