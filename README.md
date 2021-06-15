@@ -14,11 +14,12 @@
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
 [![BOOK](https://img.shields.io/badge/📖-BOOK-%23323031?style=flat&labelColor=323031)](https://lencx.github.io/book)
-[![MTC](https://img.shields.io/badge/😎-MTC-%23323031?style=flat&labelColor=323031)](https://mtc.nofwl.com)
 [![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
 [![fe-cool/news](https://img.shields.io/badge/🕸-MDH%20•%20前端情报-%23323031?style=flat&labelColor=323031)](https://fe-cool.github.io/news)
 
 <!-- [![lencx's wakatime stats](https://lencx-stats.vercel.app/api/wakatime?username=lencx&theme=calm)](https://github.com/lencx) -->
+
+<img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png">
 
 #### Languages and Tools
 
@@ -68,11 +69,11 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://mtc.nofwl.com">😎 mtc</a></td>
-      <td>my tools & config, and awesome lists</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/mtc?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+      <td><a href="https://z.nofwl.com">🌊 fzj</a></td>
+      <td>浮之静</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
       <td><a href="https://github.com/lencx/vsg">:octocat: vsg</a></td>
