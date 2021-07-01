@@ -13,13 +13,14 @@
 
 [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
+[![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
 [![BOOK](https://img.shields.io/badge/📖-BOOK-%23323031?style=flat&labelColor=323031)](https://lencx.github.io/book)
-[![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com)
-[![fe-cool/news](https://img.shields.io/badge/🕸-MDH%20•%20前端情报-%23323031?style=flat&labelColor=323031)](https://fe-cool.github.io/news)
+<!-- [![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com) -->
+<!-- [![fe-cool/news](https://img.shields.io/badge/🕸-MDH%20•%20前端情报-%23323031?style=flat&labelColor=323031)](https://fe-cool.github.io/news) -->
 
 <!-- [![lencx's wakatime stats](https://lencx-stats.vercel.app/api/wakatime?username=lencx&theme=calm)](https://github.com/lencx) -->
 
-<img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png">
+<a href="https://github.com/lencx/z/discussions/2"><img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png"></a>
 
 #### Languages and Tools
 
@@ -36,11 +37,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
-<!-- [![book](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=book&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/book) -->
-<!-- [![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=nofwl&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/nofwl)
-[![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=create-xc-app&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/create-xc-app) -->
-
-#### Blog posts
+#### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
@@ -152,3 +149,7 @@
 </table>
 
 </details>
+
+<!-- [![book](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=book&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/book) -->
+<!-- [![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=nofwl&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/nofwl)
+[![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=create-xc-app&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/create-xc-app) -->
