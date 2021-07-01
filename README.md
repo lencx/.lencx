@@ -36,9 +36,14 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
-[![book](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=book&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/book)
+<!-- [![book](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=book&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/book) -->
 <!-- [![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=nofwl&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/nofwl)
 [![nofwl](https://lencx-stats.vercel.app/api/pin/?username=lencx&repo=create-xc-app&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&show_owner=true)](https://github.com/lencx/create-xc-app) -->
+
+#### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
 
@@ -62,18 +67,32 @@
 
   <tbody>
     <tr>
-      <td><a href="https://nofwl.com">〽️ nofwl</a></td>
-      <td>my blog</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+      <td><a href="https://z.nofwl.com">〽️ z</a></td>
+      <td>浮之静</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/z?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/z?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/z?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://z.nofwl.com">🌊 fzj</a></td>
-      <td>浮之静</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/fzj?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+      <td><a href="https://github.com/lencx/vite-plugin-rsw">🦀 vite-plugin-rsw</a></td>
+      <td>wasm-pack plugin for Vite</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/learn-wasm">🎲 learn-wasm</a></td>
+      <td>learning webAssembly</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lencx/create-xc-app">⚡️ create-xc-app</a></td>
+      <td>create a project in seconds!</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
       <td><a href="https://github.com/lencx/vsg">:octocat: vsg</a></td>
@@ -97,27 +116,6 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/music?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://github.com/lencx/create-xc-app">⚡️ create-xc-app</a></td>
-      <td>create a project in seconds!</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/create-xc-app?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lencx/vite-plugin-rsw">🧩 vite-plugin-rsw</a></td>
-      <td>wasm-pack plugin for vite@v2</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/vite-plugin-rsw?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lencx/learn-wasm">🥸 learn-wasm</a></td>
-      <td>learning webAssembly</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td>
-      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/learn-wasm?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
-    </tr>
-    <tr>
       <td><a href="https://github.com/lencx/deno-getfiles">📂 deno-getfiles</a></td>
       <td>recursively get all files in a directory</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/deno-getfiles?style=plastic&labelColor=373f51&color=e07a5f" /></td>
@@ -132,7 +130,14 @@
       <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/deno-example?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
     </tr>
     <tr>
-      <td><a href="https://github.com/nofwl/rust-learn">🦀 rust-learn</a></td>
+      <td><a href="https://nofwl.com">nofwl</a></td>
+      <td>my blog</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <!-- <td><img alt="Issues" src="https://img.shields.io/github/issues/lencx/nofwl?style=plastic&labelColor=373f51&color=e07a5f" /></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nofwl/rust-learn">rust-learn</a></td>
       <td>rust learn</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nofwl/rust-learn?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nofwl/rust-learn?style=plastic&labelColor=373f51&color=e07a5f" /></td>
