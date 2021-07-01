@@ -43,6 +43,11 @@
 #### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
+- [JavaScript for impatient programmers (ES2021 edition)](https://github.com/lencx/z/discussions/42)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [在线编辑器系列](https://github.com/lencx/z/discussions/16)
+- [Web 开发指南](https://github.com/lencx/z/discussions/8)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
