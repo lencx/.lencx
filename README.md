@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web 开发指南](https://github.com/lencx/z/discussions/8)
+- [Programming Series](https://github.com/lencx/z/discussions/46)
+- [Web Development Guide](https://github.com/lencx/z/discussions/8)
+- [JavaScript Series](https://github.com/lencx/z/discussions/33)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
-- [JavaScript for impatient programmers (ES2021 edition)](https://github.com/lencx/z/discussions/42)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
