@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [技术名词解释 - 云服务](https://github.com/lencx/z/discussions/31)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [JavaScript Series](https://github.com/lencx/z/discussions/33)
 - [Programming Series](https://github.com/lencx/z/discussions/46)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
-- [JavaScript Series](https://github.com/lencx/z/discussions/33)
-- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
-- [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
