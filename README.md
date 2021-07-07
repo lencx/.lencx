@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TODO](https://github.com/lencx/z/discussions/20)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [js 中的语句 & 表达式 & 分号](https://github.com/lencx/z/discussions/48)
 - [技术词汇表 - 中英文](https://github.com/lencx/z/discussions/34)
-- [Web Development Guide](https://github.com/lencx/z/discussions/8)
-- [解决 mac 中使用 npm 命令必须要加 sudo](https://github.com/lencx/z/discussions/47)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
