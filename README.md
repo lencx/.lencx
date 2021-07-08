@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TODO](https://github.com/lencx/z/discussions/20)
+- [macOS Series](https://github.com/lencx/z/discussions/23)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [TODO](https://github.com/lencx/z/discussions/20)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [js 中的语句 & 表达式 & 分号](https://github.com/lencx/z/discussions/48)
-- [技术词汇表 - 中英文](https://github.com/lencx/z/discussions/34)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
