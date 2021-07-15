@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [【自荐】- 文章 & 开源](https://github.com/lencx/z/discussions/49)
 - [基于 Github Discussions 构建个人 Blog](https://github.com/lencx/z/discussions/50)
 - [技术是什么？](https://github.com/lencx/z/discussions/51)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
-- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
