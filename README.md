@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React 状态管理](https://github.com/lencx/z/discussions/11)
-- [Web Development Guide](https://github.com/lencx/z/discussions/8)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
-- [【自荐】- 文章 & 开源](https://github.com/lencx/z/discussions/49)
-- [基于 Github Discussions 构建个人 Blog](https://github.com/lencx/z/discussions/50)
+- [自学总结・入门期](https://github.com/lencx/z/discussions/59)
+- [JavaScript for impatient programmers (ES2021 edition)](https://github.com/lencx/z/discussions/42)
+- [Computer Science](https://github.com/lencx/z/discussions/46)
+- [Data Structure And Algorithms](https://github.com/lencx/z/discussions/58)
+- [WebGL Series](https://github.com/lencx/z/discussions/6)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
