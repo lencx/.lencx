@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Series](https://github.com/lencx/z/discussions/23)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [WebGL Series](https://github.com/lencx/z/discussions/6)
 - [Terminal Series](https://github.com/lencx/z/discussions/27)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
-- [React State Management](https://github.com/lencx/z/discussions/11)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
