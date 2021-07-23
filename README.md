@@ -40,8 +40,8 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Series](https://github.com/lencx/z/discussions/23)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [macOS Series](https://github.com/lencx/z/discussions/23)
 - [WebGL Series](https://github.com/lencx/z/discussions/6)
 - [Terminal Series](https://github.com/lencx/z/discussions/27)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
