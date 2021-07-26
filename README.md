@@ -9,12 +9,12 @@
 ![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
 ![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)
-<a href="mailto:cxin1314@gmail.com"><img src="https://img.shields.io/badge/-cxin1314@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a>
-
-[![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
 [![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
-[![BOOK](https://img.shields.io/badge/📖-BOOK-%23323031?style=flat&labelColor=323031)](https://lencx.github.io/book)
+<!-- <a href="mailto:cxin1314@gmail.com"><img src="https://img.shields.io/badge/-cxin1314@gmail.com-%23323031?style=flat&logo=gmail" alt="gmail" /></a> -->
+
+<!-- [![github](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=github)](https://github.com/lencx) -->
+<!-- [![BOOK](https://img.shields.io/badge/📖-BOOK-%23323031?style=flat&labelColor=323031)](https://lencx.github.io/book) -->
 <!-- [![nofwl](https://img.shields.io/badge/🌐-nofwl.com-%23323031?style=flat&labelColor=323031)](https://nofwl.com) -->
 <!-- [![fe-cool/news](https://img.shields.io/badge/🕸-MDH%20•%20前端情报-%23323031?style=flat&labelColor=323031)](https://fe-cool.github.io/news) -->
 
@@ -36,6 +36,12 @@
 ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
+
+#### 微信群
+
+<p style="font-size: 12px">欢迎进群交流技术及更多 GitHub 使用小技巧，如果二维码过期，可以关注公众号《浮之静》，发送“进群”，一起学习。</p>
+
+<img width="160" src="./assets/github-qun.png" alt="GitHub 微信群" /> <img width="160" src="./assets/fzj-qun.png" alt="浮之静 微信群" />
 
 #### Blog Posts
 
