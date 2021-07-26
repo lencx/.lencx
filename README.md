@@ -46,11 +46,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Series](https://github.com/lencx/z/discussions/23)
+- [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
+- [源代码片段分享](https://github.com/lencx/z/discussions/60)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [macOS Series](https://github.com/lencx/z/discussions/23)
 - [WebGL Series](https://github.com/lencx/z/discussions/6)
-- [Terminal Series](https://github.com/lencx/z/discussions/27)
-- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
