@@ -37,12 +37,6 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
-#### 微信群
-
-<p style="font-size: 12px">欢迎进群交流技术及更多 GitHub 使用小技巧，如果二维码过期，可以关注公众号《浮之静》，发送“进群”，一起学习。</p>
-
-<img width="160" src="./assets/github-qun.png" alt="GitHub 微信群" /> <img width="160" src="./assets/fzj-qun.png" alt="浮之静 微信群" />
-
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
