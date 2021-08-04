@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
 - [WebGL Series](https://github.com/lencx/z/discussions/6)
 - [微信杂谈 - 技术栈](https://github.com/lencx/z/discussions/61)
-- [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
