@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于 requestIdleCallback](https://github.com/lencx/z/discussions/38)
 - [JS 手写系列](https://github.com/lencx/z/discussions/63)
 - [Design Series](https://github.com/lencx/z/discussions/62)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
-- [Web Development Guide](https://github.com/lencx/z/discussions/8)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
