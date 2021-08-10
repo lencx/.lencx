@@ -40,10 +40,10 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [Awesome GitHub](https://github.com/lencx/z/discussions/65)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
 - [WebGL Series](https://github.com/lencx/z/discussions/6)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [CheatSheets for Developers](https://github.com/lencx/z/discussions/64)
 <!-- BLOG-POST-LIST:END -->
 
