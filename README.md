@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [基于 GitHub Discussions 的 Blog 框架](https://github.com/lencx/z/discussions/68)
 - [JS 手写系列](https://github.com/lencx/z/discussions/63)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
 - [Awesome  React](https://github.com/lencx/z/discussions/66)
-- [Web Development Guide](https://github.com/lencx/z/discussions/8)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
