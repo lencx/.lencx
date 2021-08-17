@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Terminal Libraries](https://github.com/lencx/z/discussions/69)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [JS 手写系列](https://github.com/lencx/z/discussions/63)
 - [Awesome Vue](https://github.com/lencx/z/discussions/67)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [基于 GitHub Discussions 的 Blog 框架](https://github.com/lencx/z/discussions/68)
-- [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
