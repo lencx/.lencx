@@ -69,7 +69,7 @@
 
   <tbody>
     <tr>
-      <td><a href="https://z.nofwl.com">〽️ z</a></td>
+      <td><a href="https://lencx.tech">〽️ z</a></td>
       <td>浮之静</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lencx/z?style=plastic&labelColor=373f51&color=e07a5f" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lencx/z?style=plastic&labelColor=373f51&color=e07a5f" /></td>
