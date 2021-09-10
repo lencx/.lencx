@@ -40,8 +40,8 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
+- [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [JS 手写系列](https://github.com/lencx/z/discussions/63)
 - [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
