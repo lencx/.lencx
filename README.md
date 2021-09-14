@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
+- [开发问题汇总](https://github.com/lencx/z/discussions/71)
+- [解决问题之经验篇](https://github.com/lencx/z/discussions/70)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
-- [JS 手写系列](https://github.com/lencx/z/discussions/63)
-- [欢迎来到《浮之静》社区](https://github.com/lencx/z/discussions/2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
