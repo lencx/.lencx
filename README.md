@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome  React](https://github.com/lencx/z/discussions/11)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [开发问题汇总](https://github.com/lencx/z/discussions/71)
 - [解决问题之经验篇](https://github.com/lencx/z/discussions/70)
 - [lencx 的 vscode 配置](https://github.com/lencx/z/discussions/41)
-- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
