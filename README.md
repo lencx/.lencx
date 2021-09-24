@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
+- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [Awesome  React](https://github.com/lencx/z/discussions/11)
+- [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [开发问题汇总](https://github.com/lencx/z/discussions/71)
-- [解决问题之经验篇](https://github.com/lencx/z/discussions/70)
-- [Node.js Terminal Libraries](https://github.com/lencx/z/discussions/69)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
