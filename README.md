@@ -40,8 +40,8 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
+- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [Awesome  React](https://github.com/lencx/z/discussions/11)
 - [WebAssembly Series](https://github.com/lencx/z/discussions/22)
 - [开发问题汇总](https://github.com/lencx/z/discussions/71)
