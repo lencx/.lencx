@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [这些年追过的动漫](https://github.com/lencx/z/discussions/35)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
 - [Node.js Terminal Libraries](https://github.com/lencx/z/discussions/69)
-- [Awesome  React](https://github.com/lencx/z/discussions/11)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
