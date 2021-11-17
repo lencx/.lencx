@@ -40,8 +40,8 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [这些年追过的动漫](https://github.com/lencx/z/discussions/35)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
+- [这些年追过的动漫](https://github.com/lencx/z/discussions/35)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
 - [Node.js Terminal Libraries](https://github.com/lencx/z/discussions/69)
