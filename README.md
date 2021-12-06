@@ -40,11 +40,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Series](https://github.com/lencx/z/discussions/5)
 - [开源 - 原创打卡](https://github.com/lencx/z/discussions/66)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [这些年追过的动漫](https://github.com/lencx/z/discussions/35)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
-- [Web Development Guide](https://github.com/lencx/z/discussions/8)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
