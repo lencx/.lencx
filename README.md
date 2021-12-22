@@ -30,11 +30,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [组件解耦的一些思考](https://github.com/lencx/z/discussions/45)
 - [CSS Series](https://github.com/lencx/z/discussions/5)
 - [开源 - 原创打卡](https://github.com/lencx/z/discussions/66)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [这些年追过的动漫](https://github.com/lencx/z/discussions/35)
-- [阅读打卡](https://github.com/lencx/z/discussions/44)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
