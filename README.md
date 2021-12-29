@@ -30,11 +30,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [微信杂谈 - 组件开发的一些思考](https://github.com/lencx/z/discussions/75)
 - [Web Development Guide](https://github.com/lencx/z/discussions/8)
 - [CheatSheets for Developers](https://github.com/lencx/z/discussions/64)
 - [组件解耦的一些思考](https://github.com/lencx/z/discussions/45)
-- [CSS Series](https://github.com/lencx/z/discussions/5)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
