@@ -30,7 +30,7 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 主版本号到达 100 会发生什么？](https://github.com/lencx/z/discussions/78)
+- [浏览器发展史](https://github.com/lencx/z/discussions/78)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [2021 年终总结](https://github.com/lencx/z/discussions/77)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
