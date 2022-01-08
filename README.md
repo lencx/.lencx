@@ -31,10 +31,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [浏览器发展史](https://github.com/lencx/z/discussions/78)
+- [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [2021 年终总结](https://github.com/lencx/z/discussions/77)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
-- [微信杂谈 - 组件开发的一些思考](https://github.com/lencx/z/discussions/75)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
