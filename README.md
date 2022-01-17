@@ -30,11 +30,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
 - [浏览器发展史](https://github.com/lencx/z/discussions/78)
 - [阅读打卡](https://github.com/lencx/z/discussions/44)
 - [2021 年终总结](https://github.com/lencx/z/discussions/77)
-- [lencx 语录](https://github.com/lencx/z/discussions/74)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
