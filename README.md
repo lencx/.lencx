@@ -8,7 +8,7 @@
 
 ![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
-[![浮之静](https://img.shields.io/badge/浮之静-discord-blue?style=flat&logo=discord)](https://discord.gg/WNGjFXB)
+[![浮之静](https://img.shields.io/badge/-Join「浮之静」社区-%23323031?style=flat&logo=discord)](https://discord.gg/WNGjFXB)
 ![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
 [![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
