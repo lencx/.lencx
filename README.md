@@ -35,9 +35,9 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [如何提升写作技巧？](https://github.com/lencx/z/discussions/81)
 - [什么字体更适合程序员？](https://github.com/lencx/z/discussions/80)
-- [lencx 语录](https://github.com/lencx/z/discussions/74)
 - [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
 - [浏览器发展史](https://github.com/lencx/z/discussions/78)
 <!-- BLOG-POST-LIST:END -->
