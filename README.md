@@ -35,11 +35,11 @@
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Vue](https://github.com/lencx/z/discussions/67)
 - [微信杂谈 - 代码优化](https://github.com/lencx/z/discussions/83)
+- [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
 - [微信杂谈 - 实习简历如何写](https://github.com/lencx/z/discussions/82)
 - [lencx 语录](https://github.com/lencx/z/discussions/74)
-- [如何提升写作技巧？](https://github.com/lencx/z/discussions/81)
-- [什么字体更适合程序员？](https://github.com/lencx/z/discussions/80)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
