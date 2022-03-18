@@ -38,11 +38,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [开发利器之命令行](https://github.com/lencx/z/discussions/85)
 - [微信杂谈 - 技术社交很重要](https://github.com/lencx/z/discussions/84)
 - [Awesome Vue](https://github.com/lencx/z/discussions/67)
 - [微信杂谈 - 代码优化](https://github.com/lencx/z/discussions/83)
 - [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
-- [微信杂谈 - 实习简历如何写](https://github.com/lencx/z/discussions/82)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
