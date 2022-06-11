@@ -31,9 +31,13 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=ffffff)
 
+<details>
+
+<summary>💖 Other</summary>
+
 **Archive**
 
-- [2021](https://github.com/stars/lencx/lists/2021) 
+- [2021](https://github.com/stars/lencx/lists/2021)
 
 **Blog Posts**
 
@@ -44,10 +48,6 @@
 - [微信杂谈 - 代码优化](https://github.com/lencx/z/discussions/83)
 - [微信杂谈 - 解决问题方法论](https://github.com/lencx/z/discussions/79)
 <!-- BLOG-POST-LIST:END -->
-
-<details>
-
-<summary>💖 Other</summary>
 
 <img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true"><br>
 <img alt="lencx's wakatime stats" width="360" src="https://lencx-stats.vercel.app/api/wakatime?username=lencx&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392">
