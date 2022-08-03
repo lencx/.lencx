@@ -11,6 +11,7 @@
 
 ![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
+[![知乎](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=zhihu)](https://www.zhihu.com/people/lencx_)
 [![浮之静](https://img.shields.io/badge/-Join「浮之静」-%23323031?style=flat&logo=discord)](https://discord.gg/WNGjFXB)
 [![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)](https://mp.weixin.qq.com/s/K9UtoDSL2mMh_hWm-xPPtg)
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
