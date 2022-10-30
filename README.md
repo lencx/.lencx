@@ -32,6 +32,15 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 
+---
+
+- [WA+ Download](https://github.com/lencx/WA/releases) - Making a web page more like a desktop application is just the beginning, the possibilities are unlimited, up to your imagination!
+- **Tauri 系列** - 打造属于自己的跨端应用
+  - [知乎专栏](https://www.zhihu.com/column/c_1519079232848785408)
+  - [公众号(免费篇 + 付费篇)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2593843659863752704) - 探索 Tauri 更多的能力。免费篇在知乎专栏，GitHub Discussions 是同步更新的。付费内容针对性解决一些问题（涉及 Tauri 源码，解决思路等），不定期更新。原创不易，有能力的朋友可以支持一下，感恩。
+
+---
+
 <details>
 
 <summary>💖 Other</summary>
