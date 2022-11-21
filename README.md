@@ -38,6 +38,9 @@
 - **Tauri 系列** - 打造属于自己的跨端应用
   - [知乎专栏](https://www.zhihu.com/column/c_1519079232848785408)
   - [公众号(免费篇 + 付费篇)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2593843659863752704) - 探索 Tauri 更多的能力。免费篇在知乎专栏，GitHub Discussions 是同步更新的。付费内容针对性解决一些问题（涉及 Tauri 源码，解决思路等），不定期更新。原创不易，有能力的朋友可以支持一下，感恩。
+- **Rust 在前端** - 用前端视角学习 Rust
+  - [知乎专栏](https://www.zhihu.com/column/c_1538173764251971584)
+  - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2640902652406530050)
 
 ---
 
