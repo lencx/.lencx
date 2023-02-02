@@ -7,7 +7,8 @@
 
 <p style="font-size: 12px">I'm Xin Chen, a front-end developer from China. I love to explore and learn about new things...</p>
 
-![profile views](https://komarev.com/ghpvc/?username=lencx&style=plastic)
+<!-- ![profile views](https://komarev.com/ghpvc/?username=lencx&style=plastic) -->
+![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.lencx)
 
 ![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
