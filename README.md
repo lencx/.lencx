@@ -5,7 +5,7 @@
 
 <!-- > 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵. -->
 
-<p style="font-size: 12px">I'm Xin Chen, a front-end developer from China. I love to explore and learn about new things...</p>
+<p style="font-size: 12px">I'm Xin Chen, a front-end developer from China. I love exploring and learning new things...</p>
 
 <!-- ![profile views](https://komarev.com/ghpvc/?username=lencx&style=plastic) -->
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.lencx)
