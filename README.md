@@ -15,12 +15,6 @@
 [![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
 [![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
 
----
-
-**目前正在看工作机会，坐标上海，岗位前端开发，如果有合适的岗位推荐欢迎私信我 🙏**
-
----
-
 **Languages and Tools**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
