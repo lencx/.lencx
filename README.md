@@ -18,6 +18,8 @@
 [![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UC__gTZL-OZKDPic7s_6Ntgg?style=social)](https://www.youtube.com/@lencx)
 
+<a href="https://www.buymeacoffee.com/lencx" target="_blank"><img width="120" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee"></a>
+
 **Languages and Tools**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
@@ -35,7 +37,11 @@
 
 ---
 
-<a href="https://www.buymeacoffee.com/lencx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true">
+
+<details>
+
+<summary>💖 Other</summary>
 
 - **[AI 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2822337156441440262)**
 - **Tauri 系列** - 打造属于自己的跨端应用
@@ -45,11 +51,6 @@
   - [知乎专栏](https://www.zhihu.com/column/c_1538173764251971584)
   - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2640902652406530050)
 
-<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true">
-
-<details>
-
-<summary>💖 Other</summary>
 <!-- <img alt="lencx's wakatime stats" width="360" src="https://lencx-stats.vercel.app/api/wakatime?username=lencx&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392"> -->
 
 <a href="https://github.com/lencx/z/discussions/2"><img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png"></a>
