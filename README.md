@@ -1,9 +1,7 @@
-<h4>
+<p>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  {折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...
-</h4>
-
-<!-- > 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵. -->
+  <b>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</b>
+</p>
 
 ![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
